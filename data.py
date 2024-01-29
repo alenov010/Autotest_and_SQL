@@ -13,3 +13,6 @@ CREATE_ORDER_BODY = {
     "comment": "Saske, come back to Konoha",
     "color": ["BLACK"]
 }
+
+OK_STATUS = 200
+# Новиков Александр 12-когорта Дипломный проект
